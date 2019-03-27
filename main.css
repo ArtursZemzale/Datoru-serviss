@@ -7,6 +7,10 @@ body{
 background-color: #5082d8;
 }
 
+#logo{
+    float: left;
+}
+
 #header{
     background-color: #2c3acc;
     height: 100px;
